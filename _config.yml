@@ -9,7 +9,7 @@
 title: Personal Blog
 description: > # this means to ignore newlines until "baseurl:"
  Ashwathama is a minimal website with an app like design. It also features card layouts for website elements.
-baseurl: "/myblog" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 # url: "http://webjeda.com/ashwath/"
 permalink: :title/
 # full-url: "http://webjeda.com/raider/" # the base hostname & protocol for your site
