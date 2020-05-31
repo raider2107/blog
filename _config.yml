@@ -48,7 +48,7 @@ include: [_pages] # Includes files inside _pages directory [Do not remove this]
 
 author:
   name: raider21
-  image: ashwat.jpg # The author image will be shown on the header. Place this image in /images/ folder.
+  image: term.jpg # The author image will be shown on the header. Place this image in /images/ folder.
   about: Personal Blog about IT
   twitter: https://twitter.com/ 
   facebook: https://facebook.com/ 
