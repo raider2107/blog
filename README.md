@@ -1,1 +1,1 @@
-(click me)[https://raider2107.github.io/blog/]
+[click me](https://raider2107.github.io/blog/)
